@@ -1,0 +1,17 @@
+C:\Users\nite0\source\repos\ReproductorDCU\ReproductorDCU\bin\Debug\netcoreapp3.1\ReproductorDCU.exe
+C:\Users\nite0\source\repos\ReproductorDCU\ReproductorDCU\bin\Debug\netcoreapp3.1\ReproductorDCU.deps.json
+C:\Users\nite0\source\repos\ReproductorDCU\ReproductorDCU\bin\Debug\netcoreapp3.1\ReproductorDCU.runtimeconfig.json
+C:\Users\nite0\source\repos\ReproductorDCU\ReproductorDCU\bin\Debug\netcoreapp3.1\ReproductorDCU.runtimeconfig.dev.json
+C:\Users\nite0\source\repos\ReproductorDCU\ReproductorDCU\bin\Debug\netcoreapp3.1\ReproductorDCU.dll
+C:\Users\nite0\source\repos\ReproductorDCU\ReproductorDCU\bin\Debug\netcoreapp3.1\ReproductorDCU.pdb
+C:\Users\nite0\source\repos\ReproductorDCU\ReproductorDCU\obj\Debug\netcoreapp3.1\ReproductorDCU.csproj.AssemblyReference.cache
+C:\Users\nite0\source\repos\ReproductorDCU\ReproductorDCU\obj\Debug\netcoreapp3.1\ReproductorDCU.Form1.resources
+C:\Users\nite0\source\repos\ReproductorDCU\ReproductorDCU\obj\Debug\netcoreapp3.1\ReproductorDCU.csproj.GenerateResource.cache
+C:\Users\nite0\source\repos\ReproductorDCU\ReproductorDCU\obj\Debug\netcoreapp3.1\ReproductorDCU.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nite0\source\repos\ReproductorDCU\ReproductorDCU\obj\Debug\netcoreapp3.1\ReproductorDCU.AssemblyInfoInputs.cache
+C:\Users\nite0\source\repos\ReproductorDCU\ReproductorDCU\obj\Debug\netcoreapp3.1\ReproductorDCU.AssemblyInfo.cs
+C:\Users\nite0\source\repos\ReproductorDCU\ReproductorDCU\obj\Debug\netcoreapp3.1\ReproductorDCU.csproj.CoreCompileInputs.cache
+C:\Users\nite0\source\repos\ReproductorDCU\ReproductorDCU\obj\Debug\netcoreapp3.1\ReproductorDCU.dll
+C:\Users\nite0\source\repos\ReproductorDCU\ReproductorDCU\obj\Debug\netcoreapp3.1\ReproductorDCU.pdb
+C:\Users\nite0\source\repos\ReproductorDCU\ReproductorDCU\obj\Debug\netcoreapp3.1\ReproductorDCU.genruntimeconfig.cache
+C:\Users\nite0\source\repos\ReproductorDCU\ReproductorDCU\obj\Debug\netcoreapp3.1\ReproductorDCU.Properties.Resources.resources
